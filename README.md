@@ -13,7 +13,7 @@ Project consists of using a virtual Linux machine called Gitpot. Using nano I us
 
 <h2>Environments Used </h2>
 
-- <b>macOS 14.6.1</b> (21H2)
+- <b>macOS 14.6.1</b>
 - <h2>Program walk-through:</h2>
 
 <p align="center">
