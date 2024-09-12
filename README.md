@@ -1,6 +1,6 @@
 <h1>Using Nano by Building a Castle</h1>
 
- ### 
+ ###
 
 <h2>Description</h2>
 Project consists of using a virtual Linux machine called Gitpot. Using nano I used programming lanuage to build a castle.
